@@ -13,3 +13,9 @@
  *= require_tree .
  *= require_self
  */
+span {
+  font-family: cursive;
+}
+.Hello {
+  background-color: red;
+}
