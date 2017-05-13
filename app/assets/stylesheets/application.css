@@ -29,9 +29,9 @@ ul {
 p {
   color: #40E0D0; text-align: center;
 }
-img {
-  border-color: #ff0000; border-width: 3px
-}
-ul {
+ol {
   text-align: center;
+}
+h1 {
+  text-align: center; color: #40E0D0;
 }
