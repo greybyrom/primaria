@@ -20,18 +20,13 @@
 body {
   background-color: #A9A9A9;
 }
-
-/*list color and alignment*/
-ul {
-  color: #40E0D0; text-align: center;
-}
 /*p color and text align*/
 p {
   color: #40E0D0; text-align: center;
 }
-ol {
-  text-align: center;
-}
 h1 {
   text-align: center; color: #40E0D0;
+}
+img {
+  text-align: center;
 }
