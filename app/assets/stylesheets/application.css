@@ -16,15 +16,12 @@
 
 
 
-/*body color*/
 body {
-  background-color: #A9A9A9; border-width: 20px; border-color: #000000
-}
-/*p color and text align*/
-p {
-  color: #40E0D0; text-align: center;
+  background-color: #A9A9A9;
 }
 h1 {
-  text-align: center; color: #40E0D0;
+  color: #40E0D0;
 }
-
+p {
+  color: #40E0D0;
+}
